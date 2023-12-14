@@ -1,4 +1,4 @@
-# Distilling ChatGPT for Explainable Automated Student Answer Assessment
+# OverPrompt: Enhancing ChatGPT through Efficient In-Context Learning
 Jiazheng Li*, Runcong Zhao*, Yongxin Yang, Yulan He and Lin Gui
 
 ## Abstract
