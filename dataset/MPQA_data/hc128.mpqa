@@ -1,0 +1,3 @@
+0	47,57	string	gfbf	id="19" polarity="badfor" agent="20" object="21" span="Restrained" tokenized="Restrained" gfbfId="19" sentence="CBO Budget Outlook: Health Care Costs 'Will Be Restrained' By Savings In Affordable Care Act"
+1	62,92	string	gfbfagent	id="20" writerAttitude="positive" span="Savings In Affordable Care Act" tokenized="Savings In Affordable Care Act" gfbfId="19" sentence="CBO Budget Outlook: Health Care Costs 'Will Be Restrained' By Savings In Affordable Care Act"
+2	20,37	string	gfbfobject	id="21" writerAttitude="negative" span="Health Care Costs" tokenized="Health Care Costs" gfbfId="19" sentence="CBO Budget Outlook: Health Care Costs 'Will Be Restrained' By Savings In Affordable Care Act"

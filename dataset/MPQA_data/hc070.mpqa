@@ -1,0 +1,3 @@
+0	46,53	string	gfbf	id="17" polarity="goodfor" agent="19" object="18" span="helping" tokenized="helping" gfbfId="17" sentence="How "Obamacare" is helping small business - tax cuts, baby&#xd;"
+1	32,41	string	gfbfagent	id="19" writerAttitude="positive" span="Obamacare" tokenized="Obamacare" gfbfId="17" sentence="How "Obamacare" is helping small business - tax cuts, baby&#xd;"
+2	54,68	string	gfbfobject	id="18" writerAttitude="positive" span="small business" tokenized="small business" gfbfId="17" sentence="How "Obamacare" is helping small business - tax cuts, baby&#xd;"
